@@ -1,7 +1,3 @@
-Here's a comprehensive description and an initial roadmap for your charity team management app on GitHub:
-
----
-
 ### GitHub Project Description
 
 **Charity Team Manager** is an open-source project to streamline and enhance the management of teams involved in charity activities. The app enables seamless coordination and tracking of projects, making it easier for volunteers, organizers, and donors to engage in impactful charity work, such as building rural homes, schools, and other community facilities. This tool helps ensure project transparency, efficient task allocation, and real-time updates.
